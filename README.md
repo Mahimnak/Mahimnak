@@ -26,7 +26,7 @@
 - Enhancing Data Visualization techniques
 
 ## 📈 GitHub Stats
-![Mahimna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true&hide=prs&theme=dark)
+![Mahimna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahimnak&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahimna%20Kanoongo-blue)](https://www.linkedin.com/in/mahimna-kanoongo/)
