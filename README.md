@@ -18,19 +18,19 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="center">
-    <img width="30" height="30" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-    <img width="30" height="30" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
-    <img width="30" height="30" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html5"/>
-    <img width="30" height="30" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
-    <img width="30" height="30" src="https://img.icons8.com/color/48/javascript--v1.png" alt="Javascirpt"/>
-    <img width="30" height="30" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
-    <img width="30" height="30" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js"/>
-    <img width="30" height="30" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
-    <img width="30" height="30" src="https://img.icons8.com/ios/50/solidity.png" alt="solidity"/>
+<p align="left">
+<img width="30" height="30" src="https://img.icons8.com/color/48/python--v1.png" alt="Python" style="padding: 5px;"/>
+<img width="30" height="30" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" style="padding: 5px;"/>
+<img width="30" height="30" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html5" style="padding: 5px;"/>
+<img width="30" height="30" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss" style="padding: 5px;"/>
+<img width="30" height="30" src="https://img.icons8.com/color/48/javascript--v1.png" alt="Javascirpt" style="padding: 5px;"/>
+<img width="30" height="30" src="https://img.icons8.com/plasticine/100/react.png" alt="react" style="padding: 5px;"/>
+<img width="30" height="30" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" style="padding: 5px;"/>
+<img width="30" height="30" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js" style="padding: 5px;"/>
+<img width="30" height="30" src="https://img.icons8.com/ios/50/solidity.png" alt="solidity" style="padding: 5px;"/>
 </p>
 <h3 align="left">Tools:</h3>
-<p align="center">
+<p align="left">
     <img width="30" height="30" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
     <img width="30" height="30" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/>
     <img width="30" height="30" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
