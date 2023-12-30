@@ -18,12 +18,9 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left">
-    <img width="30" height="30" padding="2px" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-    <img width="30" height="30" padding="2px" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
-    <img width="30" height="30" padding="2px" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/>
-    <img width="30" height="30" padding="2px" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
-    <img width="30" height="30" padding="2px" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+<p align="center">
+    <img width="30" height="30" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+    <img width="30" height="30" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
     <img width="30" height="30" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html5"/>
     <img width="30" height="30" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
     <img width="30" height="30" src="https://img.icons8.com/color/48/javascript--v1.png" alt="Javascirpt"/>
@@ -32,7 +29,17 @@
     <img width="30" height="30" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
     <img width="30" height="30" src="https://img.icons8.com/ios/50/solidity.png" alt="solidity"/>
 </p>
-<h3 align="left">Tools</h3>
+<h3 align="left">Tools:</h3>
+<p align="center">
+    <img width="30" height="30" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
+    <img width="30" height="30" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/>
+    <img width="30" height="30" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
+    <img width="30" height="30" src="https://img.icons8.com/fluency/48/visual-studio.png" alt="visual-studio"/>
+    <img width="30" height="30" src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel"/>
+    <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI"/>
+    <img width="30" height="30" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+    <img width="30" height="30" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahimnak&show_icons=true&locale=en&layout=compact" alt="mahimnak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahimnak&show_icons=true&locale=en" alt="mahimnak" /></p>
