@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahimna Kanoongo</h1>
-<h3 align="center">A keen interest in Machine Learning, Blockchain Technology and Full-Stack Development</h3>
+<h3 align="center">Data Analyst | Full-Stack Web Developer | Keen interest in Machine Learning | Data Science | Blockchain Technology</h3>
 
 - 🔭 I’m currently working on [KryptX](https://github.com/Mahimnak/KryptX)
 
 - 🌱 I’m currently learning **Deep Learning, TensorFlow, Neural Networks**
 
-- 👨‍💻 All of my projects are available at [https://mahimnaportfolio.netlify.app/](https://mahimnaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mahimnak?tab=repositories)
 
 - 💬 Ask me about **Python, Data Analysis, Machine Learning, MERN Stack, Web development**
 
@@ -19,15 +19,15 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img width="30" height="30" src="https://img.icons8.com/color/48/python--v1.png" alt="Python" style="padding: 5px;"/>
-<img width="30" height="30" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" style="padding: 5px;"/>
-<img width="30" height="30" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html5" style="padding: 5px;"/>
-<img width="30" height="30" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss" style="padding: 5px;"/>
-<img width="30" height="30" src="https://img.icons8.com/color/48/javascript--v1.png" alt="Javascirpt" style="padding: 5px;"/>
-<img width="30" height="30" src="https://img.icons8.com/plasticine/100/react.png" alt="react" style="padding: 5px;"/>
-<img width="30" height="30" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" style="padding: 5px;"/>
-<img width="30" height="30" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js" style="padding: 5px;"/>
-<img width="30" height="30" src="https://img.icons8.com/ios/50/solidity.png" alt="solidity" style="padding: 5px;"/>
+    <img width="30" height="30" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+    <img width="30" height="30" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+    <img width="30" height="30" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html5"/>
+    <img width="30" height="30" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+    <img width="30" height="30" src="https://img.icons8.com/color/48/javascript--v1.png" alt="Javascirpt"/>
+    <img width="30" height="30" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+    <img width="30" height="30" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js"/>
+    <img width="30" height="30" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
+    <img width="30" height="30" src="https://img.icons8.com/ios/50/solidity.png" alt="solidity"/>
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left">
@@ -40,6 +40,6 @@
     <img width="30" height="30" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
     <img width="30" height="30" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahimnak&show_icons=true&locale=en&layout=compact" alt="mahimnak" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahimnak&show_icons=true&locale=en&layout=compact" alt="mahimnak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahimnak&show_icons=true&locale=en" alt="mahimnak" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahimnak&show_icons=true&locale=en" alt="mahimnak" /></p>
