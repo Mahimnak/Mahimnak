@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahimna Kanoongo</h1>
 <h3 align="center">A keen interest in Machine Learning, Blockchain Technology and Full-Stack Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahimnak&label=Profile%20views&color=0e75b6&style=flat" alt="mahimnak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahimnak" alt="mahimnak" /></a> </p>
-
 - 🔭 I’m currently working on [KryptX](https://github.com/Mahimnak/KryptX)
 
 - 🌱 I’m currently learning **Deep Learning, TensorFlow, Neural Networks**
