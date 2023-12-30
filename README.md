@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mahimnaportfolio.netlify.app/](https://mahimnaportfolio.netlify.app/)
 
-- 💬 Ask me about **Python, MERN Stack, Web development, Machine Learning**
+- 💬 Ask me about **Python, Data Analysis, Machine Learning, MERN Stack, Web development**
 
 - 📫 How to reach me **mahimna77@gmail.com**
 
@@ -17,13 +17,13 @@
 <a href="https://www.leetcode.com/mahimnak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="mahimnak" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
-    <img width="30" height="30" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-    <img width="30" height="30" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
-    <img width="30" height="30" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/>
-    <img width="30" height="30" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
-    <img width="30" height="30" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+    <img width="30" height="30" padding="2px" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+    <img width="30" height="30" padding="2px" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
+    <img width="30" height="30" padding="2px" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/>
+    <img width="30" height="30" padding="2px" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
+    <img width="30" height="30" padding="2px" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
     <img width="30" height="30" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html5"/>
     <img width="30" height="30" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
     <img width="30" height="30" src="https://img.icons8.com/color/48/javascript--v1.png" alt="Javascirpt"/>
@@ -32,6 +32,7 @@
     <img width="30" height="30" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
     <img width="30" height="30" src="https://img.icons8.com/ios/50/solidity.png" alt="solidity"/>
 </p>
+<h3 align="left">Tools</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahimnak&show_icons=true&locale=en&layout=compact" alt="mahimnak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahimnak&show_icons=true&locale=en" alt="mahimnak" /></p>
