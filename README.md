@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahimna Kanoongo</h1>
-<h3 align="center">Data Analyst | Full-Stack Web Developer | Keen interest in Machine Learning | Data Science | Blockchain Technology</h3>
+<h3 align="center">Data Analysis | Keen interest in Machine Learning | Data Science | Blockchain Technology | Full-Stack Web Developer</h3>
 
 - 🔭 I’m currently working on [KryptX](https://github.com/Mahimnak/KryptX)
 
